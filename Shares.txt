@@ -26,6 +26,7 @@ Shell
 Aramco
 Exxon
 Total
+Eni
 
 
 American US Tech Stocks:
