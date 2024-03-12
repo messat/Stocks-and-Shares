@@ -26,7 +26,7 @@ Shell
 Aramco
 Exxon
 Total
-Vitel
+
 
 American US Tech Stocks:
 Nvidia
